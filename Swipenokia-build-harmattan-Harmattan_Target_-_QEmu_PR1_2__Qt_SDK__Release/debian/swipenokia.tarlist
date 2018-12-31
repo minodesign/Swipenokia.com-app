@@ -1,0 +1,38 @@
+# This file is created by MADDE 'dh_fixperms'.
+# MADDE 'dpkg-deb' uses this file when creating
+# 'data.tar.gz' for debian package ar archive.
+755 root root . ./opt /
+755 root root . ./opt/Swipenokia /
+755 root root . ./opt/Swipenokia/bin /
+755 root root . ./opt/Swipenokia/bin/Swipenokia debian/swipenokia/opt/Swipenokia/bin/Swipenokia
+755 root root . ./opt/Swipenokia/qml /
+755 root root . ./opt/Swipenokia/qml/Swipenokia /
+644 root root . ./opt/Swipenokia/qml/Swipenokia/.DS_Store debian/swipenokia/opt/Swipenokia/qml/Swipenokia/.DS_Store
+644 root root . ./opt/Swipenokia/qml/Swipenokia/AboutPage.qml debian/swipenokia/opt/Swipenokia/qml/Swipenokia/AboutPage.qml
+644 root root . ./opt/Swipenokia/qml/Swipenokia/AccessoriesPage.qml debian/swipenokia/opt/Swipenokia/qml/Swipenokia/AccessoriesPage.qml
+644 root root . ./opt/Swipenokia/qml/Swipenokia/AppsPage.qml debian/swipenokia/opt/Swipenokia/qml/Swipenokia/AppsPage.qml
+644 root root . ./opt/Swipenokia/qml/Swipenokia/DesignPage.qml debian/swipenokia/opt/Swipenokia/qml/Swipenokia/DesignPage.qml
+644 root root . ./opt/Swipenokia/qml/Swipenokia/FeaturesPage.qml debian/swipenokia/opt/Swipenokia/qml/Swipenokia/FeaturesPage.qml
+644 root root . ./opt/Swipenokia/qml/Swipenokia/MainPage.qml debian/swipenokia/opt/Swipenokia/qml/Swipenokia/MainPage.qml
+755 root root . ./opt/Swipenokia/qml/Swipenokia/components /
+644 root root . ./opt/Swipenokia/qml/Swipenokia/components/button.qml debian/swipenokia/opt/Swipenokia/qml/Swipenokia/components/button.qml
+755 root root . ./opt/Swipenokia/qml/Swipenokia/images /
+644 root root . ./opt/Swipenokia/qml/Swipenokia/images/Mainpage_accessories.jpg debian/swipenokia/opt/Swipenokia/qml/Swipenokia/images/Mainpage_accessories.jpg
+644 root root . ./opt/Swipenokia/qml/Swipenokia/images/Mainpage_apps.jpg debian/swipenokia/opt/Swipenokia/qml/Swipenokia/images/Mainpage_apps.jpg
+644 root root . ./opt/Swipenokia/qml/Swipenokia/images/Mainpage_design.jpg debian/swipenokia/opt/Swipenokia/qml/Swipenokia/images/Mainpage_design.jpg
+644 root root . ./opt/Swipenokia/qml/Swipenokia/images/Mainpage_features.jpg debian/swipenokia/opt/Swipenokia/qml/Swipenokia/images/Mainpage_features.jpg
+644 root root . ./opt/Swipenokia/qml/Swipenokia/images/nokia.png debian/swipenokia/opt/Swipenokia/qml/Swipenokia/images/nokia.png
+644 root root . ./opt/Swipenokia/qml/Swipenokia/main.qml debian/swipenokia/opt/Swipenokia/qml/Swipenokia/main.qml
+755 root root . ./usr /
+755 root root . ./usr/share /
+755 root root . ./usr/share/applications /
+644 root root . ./usr/share/applications/Swipenokia_harmattan.desktop debian/swipenokia/usr/share/applications/Swipenokia_harmattan.desktop
+755 root root . ./usr/share/doc /
+755 root root . ./usr/share/doc/swipenokia /
+644 root root . ./usr/share/doc/swipenokia/changelog.gz debian/swipenokia/usr/share/doc/swipenokia/changelog.gz
+644 root root . ./usr/share/doc/swipenokia/copyright debian/swipenokia/usr/share/doc/swipenokia/copyright
+755 root root . ./usr/share/icons /
+755 root root . ./usr/share/icons/hicolor /
+755 root root . ./usr/share/icons/hicolor/80x80 /
+755 root root . ./usr/share/icons/hicolor/80x80/apps /
+644 root root . ./usr/share/icons/hicolor/80x80/apps/Swipenokia80.png debian/swipenokia/usr/share/icons/hicolor/80x80/apps/Swipenokia80.png

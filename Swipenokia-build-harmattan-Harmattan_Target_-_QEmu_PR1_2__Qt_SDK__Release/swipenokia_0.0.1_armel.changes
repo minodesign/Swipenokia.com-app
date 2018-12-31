@@ -1,0 +1,23 @@
+Format: 1.8
+Date: Fri, 14 Dec 2018 18:09:58 +0100
+Source: swipenokia
+Binary: swipenokia
+Architecture: armel
+Version: 0.0.1
+Distribution: unstable
+Urgency: low
+Maintainer: unknown <giovanniminelli@unknown>
+Changed-By: unknown <giovanniminelli@unknown>
+Description: 
+ swipenokia - <insert up to 60 chars description>
+Changes: 
+ swipenokia (0.0.1) unstable; urgency=low
+ .
+   * Initial Release.
+Checksums-Sha1: 
+ 00784539f02922fa5961551a7a23a275cc3faa3f 316502 swipenokia_0.0.1_armel.deb
+Checksums-Sha256: 
+ 68192d8b1b2e80cb05774acd1c50adb9bfb4f16203ddcd21838146a29273a4f4 316502 swipenokia_0.0.1_armel.deb
+Files: 
+ d4b1d4e6b3b35733a9228bf33871e398 316502 user/other optional swipenokia_0.0.1_armel.deb
+Maemo-Display-Name: Swipenokia
